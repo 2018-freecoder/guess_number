@@ -1,7 +1,7 @@
 requirements:
 
 0. you can use any languange you want, your code and test should be runnable
-1. commit your baby step in development
+1. commit your baby step in development, you can also add your own test case
 2. write a class contains a method, which receive a string number as param, the number is 4 digit number with unique digits. You need to return a string contains "A", "B" or "0000".
 A means you guess 1 right number in right position
 B means you guess 1 right number but in wrong position
